@@ -1,3 +1,7 @@
+## This is the testing sandbox for Matthew Matyus
+# To view the Articles feature you can launch the rails project "rails s"
+# and point your browser at the address http://localhost:3000/articles
+
 # Welcome to the Democracy Initiatives! 
 # The premier online political discussion forum!
 #
